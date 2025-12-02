@@ -1,4 +1,4 @@
-// src/components/Footer.jsxs
+// src/components/Footer.jsx
 
 import React from 'react';
 import '../index.css'; // Tetap impor file CSS Anda
