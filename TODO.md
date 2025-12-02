@@ -1,0 +1,2 @@
+- [x] Remove icon prop and display from ServiceCard in ServicesSection.jsx
+- [x] Remove step-icon divs from process steps in ServicesSection.jsx
